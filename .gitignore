@@ -1,5 +1,6 @@
 .vscode/
 .DS_Store
+deploy-version/
 node_modules/
 src/
 **/*.map

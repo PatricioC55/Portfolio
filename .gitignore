@@ -1,0 +1,8 @@
+.vscode/
+.DS_Store
+node_modules/
+src/
+**/*.map
+gulpfile.js
+package-lock.json
+package.json
